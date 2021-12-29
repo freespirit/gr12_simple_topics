@@ -2,6 +2,8 @@
 
 A simple analysis of the top topics in GR12.
 
+(in `gr12_eda.ipynb`)
+
 # How
 Based on keyword extraction we can see what topics were most interesting and most supported by individual contributors.
 
